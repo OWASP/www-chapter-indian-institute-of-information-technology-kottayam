@@ -26,6 +26,8 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 </div>
 
+![Local PNG Image](iiit_kottayam_logo.png)
+
 ## Welcome
 Include some information here about your chapter
 
