@@ -10,16 +10,6 @@ meetup-group:
 
 ## Welcome
 
-<style>
-  .centered-image {
-    display: block;
-    margin:40 px auto;
-  }
-</style>
-
-
-![Local PNG Image](iiit_kottayam_logo.png){: .centered-image }
-
 <p align="center">
   <img src="iiit_kottayam_logo.png" alt="Local PNG Image" width="400" />
 </p>
