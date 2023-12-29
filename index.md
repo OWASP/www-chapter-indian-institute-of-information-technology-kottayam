@@ -13,7 +13,7 @@ meetup-group:
 <style>
   .centered-image {
     display: block;
-    margin: 20px auto;
+    margin:40 px auto;
   }
 </style>
 
