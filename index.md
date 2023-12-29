@@ -10,9 +10,16 @@ meetup-group:
 
 ## Welcome
 
-<div style="text-align:center; margin: 20px;">
-  ![Local PNG Image](iiit_kottayam_logo.png)
-</div>
+<style>
+  .centered-image {
+    display: block;
+    margin: 20px auto;
+  }
+</style>
+
+
+![Local PNG Image](iiit_kottayam_logo.png){: .centered-image }
+
 
 Greetings Cybersecurity Enthusiasts and Web Application Defenders!
 
