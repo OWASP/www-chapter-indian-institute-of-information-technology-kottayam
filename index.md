@@ -11,7 +11,7 @@ meetup-group:
 ## Welcome
 
 <p align="center">
-  <img src="iiit_kottayam_logo.png" alt="Local PNG Image" width="400" />
+  <img src="iiit_kottayam_logo.png" alt="Local PNG Image" height = "100" width="200" />
 </p>
 <br><br>
 Greetings Cybersecurity Enthusiasts and Web Application Defenders!
