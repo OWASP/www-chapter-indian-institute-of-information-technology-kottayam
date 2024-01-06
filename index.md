@@ -11,8 +11,8 @@ meetup-group:
 ## Welcome
 
 <p align="center">
-  <img src="iiit_kottayam_logo.png" alt="Local PNG Image" height = "100" width="200" style="margin-right: 30px;"/>
-  <img src="owasp_iiitk_logo.png" alt="Local PNG Image" height = "100" width="200" style="margin-right: 30px;/>
+  <img src="iiit_kottayam_logo.png" alt="Local PNG Image" height = "100" width="200"/>
+  <img src="owasp_iiitk_logo.png" alt="Local PNG Image" height = "100" width="200"/>
   <img src="csy_club_logo.png" alt="Local PNG Image" height = "100" width="200" />
 </p>
 <br><br>
