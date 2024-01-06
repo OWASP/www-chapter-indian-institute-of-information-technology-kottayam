@@ -1,2 +1,2 @@
 ### Social Links
-* [Meetup](#)
+* [LinkedIn](https://www.linkedin.com/company/csyclub-iiitkottayam/)
