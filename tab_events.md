@@ -7,8 +7,9 @@ tags: example-tag
 ---
 ## Upcoming Events
 Cyber Week
-![alt text](https://github.com/OWASP/www-chapter-indian-institute-of-information-technology-kottayam/blob/main/assets/images/CyberWeeklogo.jpeg)
-
+<p>
+  <img src="assets/images/CyberWeeklogo.jpeg" alt="Local PNG Image" height = "100" width="200"/>
+</p>
 DAY 1- OSINT(Purandhar and Ansh)
 We would go from knowing minimal information about a potential target to gaining maximum information from public domain.
 Creating a personalised Phishing email to the target to gain credential access from them <br/>
