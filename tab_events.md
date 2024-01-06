@@ -7,12 +7,27 @@ tags: example-tag
 ---
 ## Upcoming Events
 
+<p align="center">
+      <img src="assets/images/CyberWeeklogo.jpeg" alt="Cyber Week" height = "200" width="200"/>
+</p>
+
+<div>
+      <div style="float:left;">
+            <b>DAY - 1: Introduction to OSINT and target reconnaissance</b><br>
+            We would go from knowing minimal information about a potential target to gaining<br/> maximum information from the public domain.<br/>
+            Creating a personalised Phishing email to the target to gain credential access from them <br/>
+      </div>
+      <div style="float:right;">
+       <img src="assets/images/os-init 8jan.jpeg" alt="OSINT" height = "200" width="200"/>
+      </div>
+</div>
+
 <p align="center">DAY 1- OSINT(Purandhar and Ansh)</p>
-<div class="row" style="display: flex;
+<div style="display: flex;
       align-items: center;
       margin-bottom: 20px;">
   <div class="text" style=" flex: 1;">
-   <p>We would go from knowing minimal information about a potential target to gaining maximum information from public domain.<br/>
+   <p>We would go from knowing minimal information about a potential target to gaining maximum information from the public domain.<br/>
   Creating a personalised Phishing email to the target to gain credential access from them <br/>
   </p>
   </div>
