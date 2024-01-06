@@ -23,7 +23,7 @@ We are delighted to extend a warm welcome to you on the official webpage of IIIT
 At IIIT-K, our mission is unequivocal: to empower both individuals and organizations in the endeavor to build, maintain, and operate secure web applications. In the dynamic landscape of ever-evolving cyber threats, our community serves as a steadfast stronghold. We pride ourselves on being a nexus for knowledge-sharing, collaboration, and a hub for continuous learning.
 
 Join us in our collective journey to navigate the complexities of cybersecurity, where every member contributes to the resilience of our digital ecosystems. Together, we stand as a united force dedicated to advancing the field of web application security, ensuring a safer and more secure digital future for all.
-<br><br><br>
+<br><br>
 
 ## Participation
 
