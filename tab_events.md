@@ -6,7 +6,7 @@ order: 2
 tags: example-tag
 ---
 ## Upcoming Events
-<p>
+<p align="center">
   <img src="assets/images/CyberWeeklogo.jpeg" alt="Local PNG Image" height = "200" width="200"/>
 </p>
 DAY 1- OSINT(Purandhar and Ansh)
