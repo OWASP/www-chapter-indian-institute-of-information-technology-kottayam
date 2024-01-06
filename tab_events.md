@@ -6,28 +6,7 @@ order: 2
 tags: example-tag
 ---
 ## Upcoming Events
-<style>
-    /* Add some styling to improve visibility */
-    .row {
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-    .text {
-      flex: 1;
-    }
-    .image {
-      flex: 1;
-      text-align: right;
-      height: 200px;
-      width: 200px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-  
+
 <p align="center">DAY 1- OSINT(Purandhar and Ansh)</p>
 <div class="row" style="display: flex;
       align-items: center;
