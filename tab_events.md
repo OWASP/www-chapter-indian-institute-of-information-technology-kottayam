@@ -6,9 +6,8 @@ order: 2
 tags: example-tag
 ---
 ## Upcoming Events
-Cyber Week
 <p>
-  <img src="assets/images/CyberWeeklogo.jpeg" alt="Local PNG Image" height = "100" width="200"/>
+  <img src="assets/images/CyberWeeklogo.jpeg" alt="Local PNG Image" height = "200" width="200"/>
 </p>
 DAY 1- OSINT(Purandhar and Ansh)
 We would go from knowing minimal information about a potential target to gaining maximum information from public domain.
