@@ -41,8 +41,8 @@ tags: example-tag
 
 <!-- Row 2 -->
 <div  style="display: flex;
-      margin-bottom: 20px;"
-      margin-top:100px;>
+      margin-bottom: 20px;
+      margin-top:100px;">
   <div style=" flex: 1;">
    <p style="margin-top:100px">DAY 2(Priyatham) - Network Scanning</p>
    <p>Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities. </p>
