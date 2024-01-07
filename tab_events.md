@@ -22,8 +22,8 @@ tags: example-tag
       </div>
 </div>
 
-<p align="center">DAY 1- OSINT(Purandhar and Ansh)</p>
-<div style="display: flex;
+<!-- <p align="center">DAY 1- OSINT(Purandhar and Ansh)</p> -->
+<!-- <div style="display: flex;
       align-items: center;
       margin-bottom: 20px;">
   <div class="text" style=" flex: 1;">
@@ -37,7 +37,7 @@ tags: example-tag
       width: 200px;">
     <img src="assets/images/os-init 8jan.jpeg" alt="Image 1">
   </div>
-</div>
+</div> -->
 <p align="center" style="margin-top:100px">DAY 2(Priyatham) - Network Scanning</p>
 <!-- Row 2 -->
 <div class="row" style="display: flex;
