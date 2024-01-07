@@ -8,8 +8,8 @@ tags: example-tag
 
 ## Upcoming Events
 
- <p align="center"> <strong> CYBERWEEK (8 Jan 2024 - 14 Jan 2024) </strong>
-  <img src="assets/images/CyberWeeklogo.jpeg" alt="Logo" height="200" width="200" style="margin: 10px;"/> 
+ <p align="center"> <strong> CYBERWEEK (8 Jan 2024 - 14 Jan 2024) </strong><br>
+  <img src="assets/images/CyberWeeklogo.jpeg" alt="Logo" height="250" width="250" style="margin: 10px;"/> 
  </p>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
