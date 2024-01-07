@@ -11,7 +11,7 @@ tags: example-tag
       <img src="assets/images/CyberWeeklogo.jpeg" alt="Cyber Week" height = "200" width="200"/>
 </p>
 
-<div>
+<div style="margin-bottom=20px;">
       <div style="float:left;">
             <b>DAY - 1: Introduction to OSINT and target reconnaissance</b><br>
             We would go from knowing minimal information about a potential target to gaining<br/> maximum information from the public domain.<br/>
@@ -40,11 +40,10 @@ tags: example-tag
 </div> -->
 
 <!-- Row 2 -->
-<div class="row" style="display: flex;
-      align-items: center;
+<div  style="display: flex;
       margin-bottom: 20px;">
-      <p align="center" style="margin-top:100px">DAY 2(Priyatham) - Network Scanning</p>
   <div class="text" style=" flex: 1;">
+   <p align="center" style="margin-top:100px">DAY 2(Priyatham) - Network Scanning</p>
    <p>Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities. </p>
   </div>
   <div class="image" style="flex: 1;
