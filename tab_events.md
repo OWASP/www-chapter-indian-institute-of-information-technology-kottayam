@@ -43,12 +43,11 @@ tags: example-tag
 <div  style="display: flex;
       margin-bottom: 20px;
       margin-top:100px;">
-  <div style=" flex: 1;">
-   <p style="margin-top:100px">DAY 2(Priyatham) - Network Scanning</p>
+  <div style="float:left;">
+   <b>DAY 2(Priyatham) - Network Scanning</b><br/>
    <p>Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities. </p>
   </div>
-  <div class="image" style="flex: 1;
-      text-align: right;
+  <div style="float:right;
       height: 200px;
       width: 200px;">
     <img src="assets/images/network.jpeg" alt="Image 2">
