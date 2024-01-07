@@ -8,25 +8,33 @@ tags: example-tag
 
 ## Upcoming Events
 
-![Cyber Week](assets/images/CyberWeeklogo.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/CyberWeeklogo.jpeg" alt="Cyber Week" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ### DAY - 1: Introduction to OSINT and Target Reconnaissance
 
 We would go from knowing minimal information about a potential target to gaining maximum information from the public domain. Creating a personalized Phishing email to the target to gain credential access from them.
 
-![OSINT](assets/images/os-init 8jan.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/os-init 8jan.jpeg" alt="OSINT" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ### DAY 2 (Priyatham) - Network Scanning
 
 Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities.
 
-![Network Scanning](assets/images/network.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/network.jpeg" alt="Network Scanning" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ### DAY 3 - EXPLOITATION TOOLS (Purandhar and Ansh)
 
 Brief look through popular Exploitation tools e.g., John the Ripper, BeEF project. Demonstration of keyloggers and other cybersecurity vulnerabilities.
 
-![Exploitation Tools](assets/images/exploitation.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/exploitation.jpeg" alt="Exploitation Tools" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ### DAY 4 - WEB (Gaurav Jain)
 
@@ -35,7 +43,9 @@ Brief look through popular Exploitation tools e.g., John the Ripper, BeEF projec
 - Leverage XSS to steal cookies (live demo!) - session hijacking
 - Popular tools to find and exploit XSS - XSSer, XSStrike, etc.
 
-![Web](assets/images/breakingWebsite.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/breakingWebsite.jpeg" alt="Web" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ### DAY 5 - CTF (Gaurav Jain)
 
@@ -43,7 +53,9 @@ Brief look through popular Exploitation tools e.g., John the Ripper, BeEF projec
 - Other interesting domains of CTF - Reverse Engineering, Binary Exploitation, etc.
 - Introduction to popular CTF practice websites (tryhackme, picoCTF, hackthebox)
 
-![CTF](assets/images/ctf.jpeg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/images/ctf.jpeg" alt="CTF" height="80" width="80" style="margin: 10px;"/>
+</div>
 
 ## Past Events
 
