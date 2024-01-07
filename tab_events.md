@@ -10,7 +10,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 2;">
-    ** DAY-1: Introduction to OSINT and Target Reconnaissance (Purundhar, Ansh) ** <br>
+    <strong> DAY-1: Introduction to OSINT and Target Reconnaissance (Purundhar, Ansh) ** </strong><br>
 
     We would go from knowing minimal information about a potential target to gaining maximum information from the public domain. Creating a personalized Phishing email to the target to gain credential access from them.
   </div>
@@ -21,7 +21,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 2;">
-    ** DAY-2 : Network Scanning & NMAP (Priyatham) ** <br>
+    <strong> DAY-2 : Network Scanning & NMAP (Priyatham) </strong><br>
 
     Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities.
   </div>
@@ -32,7 +32,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 2;">
-    ** DAY-3 : Exploitation Tools (Purundhar, Ansh) ** <br>
+    <strong> DAY-3 : Exploitation Tools (Purundhar, Ansh) </strong><br>
 
     Brief look through popular Exploitation tools e.g., John the Ripper, BeEF project. Demonstration of keyloggers and other cybersecurity vulnerabilities.
   </div>
@@ -43,7 +43,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 2;">
-    ** DAY-4 : Breaking Websites (Gaurav Jain) ** <br>
+    <strong> DAY-4 : Breaking Websites (Gaurav Jain) </strong><br>
 
     - Basics of web and HTTP <br>
     - Introduction to Cross Site Scripting <br>
@@ -57,7 +57,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 2;">
-    ** DAY 5 - Capture The Flag (Gaurav Jain) ** <br>
+    <strong> DAY 5 - Capture The Flag (Gaurav Jain) </strong> <br>
 
     - Introduction to CTF <br>
     - Other interesting domains of CTF - Reverse Engineering, Binary Exploitation, etc. <br>
