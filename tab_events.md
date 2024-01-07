@@ -8,7 +8,7 @@ tags: example-tag
 ## Upcoming Events
 
 <p align="center">
-      <img src="assets/images/CyberWeeklogo.jpeg" alt="Cyber Week" height = "200" width="200"/>
+      <img src="assets/images/CyberWeeklogo.jpeg" alt="Cyber Week" height = "100" width="100"/>
 </p>
 
 <div style="margin-bottom=20px;">
@@ -18,7 +18,7 @@ tags: example-tag
             Creating a personalised Phishing email to the target to gain credential access from them <br/>
       </div>
       <div style="float:right;">
-       <img src="assets/images/os-init 8jan.jpeg" alt="OSINT" height = "200" width="200"/>
+       <img src="assets/images/os-init 8jan.jpeg" alt="OSINT" height = "100" width="100"/>
       </div>
 </div>
 
@@ -48,8 +48,8 @@ tags: example-tag
    <p>Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities. </p>
   </div>
   <div style="float:right;
-      height: 200px;
-      width: 200px;">
+      height: 100px;
+      width: 100px;">
     <img src="assets/images/network.jpeg" alt="Image 2">
   </div>
 </div>
@@ -66,8 +66,8 @@ tags: example-tag
   </div>
   <div class="image" style="flex: 1;
       text-align: right;
-      height: 200px;
-      width: 200px;">
+      height: 100px;
+      width: 100px;">
     <img src="assets/images/exploitation.jpeg" alt="Image 3">
   </div>
 </div>
@@ -84,8 +84,8 @@ tags: example-tag
   </div>
   <div class="image" style="flex: 1;
       text-align: right;
-      height: 200px;
-      width: 200px;">
+      height: 100px;
+      width: 100px;">
     <img src="assets/images/breakingWebsite.jpeg" alt="Image 4">
   </div>
 </div>
@@ -102,8 +102,8 @@ tags: example-tag
   </div>
   <div class="image" style="flex: 1;
       text-align: right;
-      height: 200px;
-      width: 200px;">
+      height: 100px;
+      width: 100px;">
     <img src="assets/images/ctf.jpeg" alt="Image 5">
   </div>
 </div>
