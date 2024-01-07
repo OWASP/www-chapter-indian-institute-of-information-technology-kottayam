@@ -13,7 +13,7 @@ tags: example-tag
 
 <div style="margin-bottom=20px;">
       <div style="float:left;">
-            <b>DAY - 1: Introduction to OSINT and target reconnaissance</b><br>
+            <b>DAY - 1: Introduction to OSINT and target reconnaissance</b><br/>
             We would go from knowing minimal information about a potential target to gaining<br/> maximum information from the public domain.<br/>
             Creating a personalised Phishing email to the target to gain credential access from them <br/>
       </div>
