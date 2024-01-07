@@ -28,8 +28,8 @@ tags: example-tag
   <div style="flex: 2;">
     <strong> DAY-2 : Network Scanning & NMAP </strong><br>
     (Speaker: Darisi Priyatham) <br><br>
-    - Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities.<br> 
-   Operating within networks, which range from local to global scales, it assesses security by <br>
+    - Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities.
+   Operating within networks, which range from local to global scales, it assesses security by
    revealing open ports and facilitating communication and resource sharing.
 
   </div>
