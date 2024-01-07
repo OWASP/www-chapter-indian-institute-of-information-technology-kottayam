@@ -2,7 +2,7 @@
 title: Events
 layout: null
 tab: true
-order: 2
+order: 1
 tags: example-tag
 ---
 
@@ -10,7 +10,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 2;">
-    ### DAY - 1: Introduction to OSINT and Target Reconnaissance
+    ### DAY-1: Introduction to OSINT and Target Reconnaissance (Purundhar, Ansh)<br>
 
     We would go from knowing minimal information about a potential target to gaining maximum information from the public domain. Creating a personalized Phishing email to the target to gain credential access from them.
   </div>
@@ -21,7 +21,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 2;">
-    ### DAY 2 (Priyatham) - Network Scanning
+    ### DAY-2 : Network Scanning & NMAP (Priyatham)<br>
 
     Nmap, a potent network scanning tool, is crucial for discovering hosts and vulnerabilities.
   </div>
@@ -32,7 +32,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 2;">
-    ### DAY 3 - EXPLOITATION TOOLS (Purandhar and Ansh)
+    ### DAY-3 : Exploitation Tools (Purundhar, Ansh) <br>
 
     Brief look through popular Exploitation tools e.g., John the Ripper, BeEF project. Demonstration of keyloggers and other cybersecurity vulnerabilities.
   </div>
@@ -43,7 +43,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 2;">
-    ### DAY 4 - WEB (Gaurav Jain)
+    ### DAY-4 : Breaking Websites (Gaurav Jain) <br>
 
     - Basics of web and HTTP
     - Introduction to Cross Site Scripting
@@ -57,7 +57,7 @@ tags: example-tag
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 2;">
-    ### DAY 5 - CTF (Gaurav Jain)
+    ### DAY 5 - Capture The Flag (Gaurav Jain) <br>
 
     - Introduction to CTF
     - Other interesting domains of CTF - Reverse Engineering, Binary Exploitation, etc.
