@@ -76,7 +76,3 @@ tags: example-tag
     <img src="assets/images/ctf.jpeg" alt="CTF" height="200" width="200" style="margin: 10px;"/>
   </div>
 </div>
-
-## Past Events
-
-(To Be Decided)
