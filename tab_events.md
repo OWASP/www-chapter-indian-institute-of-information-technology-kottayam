@@ -76,3 +76,15 @@ tags: example-tag
     <img src="assets/images/ctf.jpeg" alt="CTF" height="200" width="200" style="margin: 10px;"/>
   </div>
 </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="flex: 2;">
+    <strong> DAY 6 - Security from a Fintech Perspective </strong> <br>
+      (Speaker: Shri.Mahesh Govind) <br><br>
+    - Covering careers and future aspects in the realm of Cyber Security <br>
+    -  Explore career opportunities and future trends in this dynamic field <br>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="assets/images/ctf.jpeg" alt="CTF" height="200" width="200" style="margin: 10px;"/>
+  </div>
+</div>
