@@ -13,7 +13,7 @@ meetup-group:
   <img src="owasp_iiitk_logo.png" alt="Local PNG Image" height = "100" width="300" style="margin: 35px; margin-top: 20px; margin-bottom: 20px;"/>
   <img src="csy_club_logo.png" alt="Local PNG Image" height = "100" width="165" />
 </p>
- <b>HAPPY FORMATION DAY</b><BR/>
+ <b style="align:center; text-font:15px ">HAPPY FORMATION DAY</b><BR/>
 ## Welcome
 
 Greetings Cybersecurity Enthusiasts!
