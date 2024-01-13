@@ -85,6 +85,6 @@ tags: example-tag
     -  Explore career opportunities and future trends in this dynamic field <br>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/ctf.jpeg" alt="CTF" height="200" width="200" style="margin: 10px;"/>
+    <img src="assets/images/webinar.jpeg" alt="CTF" height="200" width="200" style="margin: 10px;"/>
   </div>
 </div>
