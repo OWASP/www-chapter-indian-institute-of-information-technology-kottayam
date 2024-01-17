@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Indian Institute of Information Technology Kottayam
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
