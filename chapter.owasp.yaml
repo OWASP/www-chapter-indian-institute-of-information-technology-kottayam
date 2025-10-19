@@ -1,0 +1,28 @@
+leaders:
+  - name: Dr. Lavanya Settipalli
+    email: lavanya.settipalli@owasp.org
+  - name: Shravasti Ohol
+    email: shravasti.ohol@owasp.org
+  - name: Purandhar Reddy Madduri
+    email: purandhar.madduri@owasp.org
+  - name: Kaustubh Bhalerao
+    email: kaustubh.bhalerao@owasp.org
+  - name: Vedanta SP
+    email: vedanta.p@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Kerala
+  city: Kottayam
+  latitude: 9.7547564
+  longitude: 76.64962291012658
+name: OWASP Indian Institute of Information Technology Kottayam
+repositories:
+  - name: www-chapter-indian-institute-of-information-technology-kottayam
+    url: https://github.com/OWASP/www-chapter-indian-institute-of-information-technology-kottayam
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam
